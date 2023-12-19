@@ -16,12 +16,5 @@ This project integrates sentiment analysis into a GPT-2-based conversational AI 
 
 To get started, follow these simple steps:
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/gpt2-sentiment-conversation.git
-
-# Navigate to the project directory
-cd gpt2-sentiment-conversation
-
-# Install dependencies
-pip install -r requirements.txt
+## colab Link:
+https://colab.research.google.com/drive/1Y9RCJ4CV5MtKFnly-I8lUAacvjvQ9Da4?usp=sharing
